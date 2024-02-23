@@ -1,0 +1,3 @@
+T Formation,TIGHT_LEFT,True,TIGHT_RIGHT,True
+I Formation,OUT_LEFT,True,OUT_LEFT,True
+Spread,WIDE_LEFT,True,WIDE_RIGHT,True
